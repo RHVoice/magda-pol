@@ -2,6 +2,6 @@ name=Magda
 language=Polish
 gender=female
 format=4
-revision=42
+revision=46
 msi_upgrade_code=bce48413-5d55-4afb-a5f8-4fe5ae7760d9
 exe_upgrade_code=dbc6ee9e-794d-4cd4-a31c-67e287a30b6e

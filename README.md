@@ -1,7 +1,5 @@
 # Magda, Polish language voice for RHVoice
-This voice is distributed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-If you need other license, contact us.
+This voice is distributed under the [Creative Commons — Attribution 4.0 International — CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 ## Team
 - Magda Roczeń - Speaker.
